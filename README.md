@@ -5,5 +5,6 @@ Engage in a beginner-level SQL project aimed at analyzing the playlist database 
 - Postgre SQL
 - PgAdmin4
 
-Check pdf for question and solutions
+Check pdf for question and solutions.
+
 Download the SQL file to access Music Store Data
